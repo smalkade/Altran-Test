@@ -1,0 +1,20 @@
+﻿Controle de estoque - 1 dias para executar o teste
+
+Fazer um sistema de controle de estoque.
+
+Tendo em vista as tabelas:
+
+Produto(id,nome,descrição,preço)
+
+Cliente(id,nome,email,telefone)
+Pedido(id_produto, id_cliente)
+
+Fazer o download do wordpress: 
+https://wordpress.org/download/
+
+Criar um CRUD no wordpress, utilizando um postType para cada modelo, ou seja, um postType com um customFields para 
+Produto, Cliente, Pedido.
+
+
+Colocar o projeto em seu github, e mandar o link para sua consultoria!
+
